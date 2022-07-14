@@ -1,0 +1,15 @@
+{
+  "name": "cypress-automation",
+  "version": "1.0.0",
+  "description": "This is cypress automation framwork",
+  "main": "index.js",
+  "scripts": {
+    "cy:run": "cypress run",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pankaj Singh Karki",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^10.3.0"
+  }
+}
